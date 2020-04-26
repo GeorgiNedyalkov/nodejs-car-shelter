@@ -21,7 +21,7 @@ Cat shelter is a simple cat catalog that shows the JSON database, where everyone
 # TODO
 * [x] Initial setup
 * [x] Npm init 
-* Start the server
+* [x]Start the server
 * Display the Home page
 ** Implement back-end logic 
 ** Write the basic HTML and CSS
